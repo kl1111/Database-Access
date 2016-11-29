@@ -1,0 +1,6 @@
+2016-11-29 12:11:22 WARN  [main] UsersDAO:jdbcExercises.UsersDAO.addUsers(UsersDAO.java:35) - Error adding a new user to database: ORA-00001: unique constraint (TRAINEE1.SYS_C0016405) violated
+ORA-06512: at "TRAINEE1.ADD_USER", line 13
+ORA-06512: at line 1
+
+2016-11-29 12:11:24 WARN  [main] UsersDAO:jdbcExercises.UsersDAO.getUser(UsersDAO.java:86) - Error adding a new user to database: ORA-00942: table or view does not exist
+
